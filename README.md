@@ -16,5 +16,5 @@ This is a React Native application designed to provide information on nearby and
 width="30%" height="30%" />
 <img src="https://github.com/suchithreddy02/React-Native-Expo-JobSearch-App/assets/56992293/28590e5b-834c-4703-83af-3411efdf4140" alt="Contract main page"
 width="30%" height="30%" />
-<img src="https://github.com/suchithreddy02/React-Native-Expo-JobSearch-App/assets/56992293/5bb3deb4-85e3-4afe-9ccf-cabcfdce5faa" alt="Job page"
-width="30%" height="30%" align="center" />
+<p  align="center"><img src="https://github.com/suchithreddy02/React-Native-Expo-JobSearch-App/assets/56992293/5bb3deb4-85e3-4afe-9ccf-cabcfdce5faa" alt="Job page"
+width="30%" height="30%" /></p>
